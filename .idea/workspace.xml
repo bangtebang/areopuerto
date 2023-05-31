@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d478a8b-0d84-442f-87e5-fc64a5888453" name="Changes" comment="subo clases creadas con visual paradigm">
+    <list default="true" id="1d478a8b-0d84-442f-87e5-fc64a5888453" name="Changes" comment="subo clases creadas con visual paradigm corregidas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aeropuerto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Avion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ciudad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pasajero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PasaporteSanitario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Piloto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Vuelo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aeropuerto/Aeropuerto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aeropuerto/Aeropuerto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +54,26 @@
       <option name="project" value="LOCAL" />
       <updated>1685470413731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subo clases creadas con visual paradigm corregidas">
+      <created>1685569493091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685569493091</updated>
+    </task>
+    <task id="LOCAL-00003" summary="subo clases creadas con visual paradigm corregidas">
+      <created>1685569507987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685569507987</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subo clases creadas con visual paradigm" />
-    <option name="LAST_COMMIT_MESSAGE" value="subo clases creadas con visual paradigm" />
+    <MESSAGE value="subo clases creadas con visual paradigm corregidas" />
+    <option name="LAST_COMMIT_MESSAGE" value="subo clases creadas con visual paradigm corregidas" />
   </component>
 </project>

@@ -5,6 +5,9 @@ public class Pasajero {
 	private String nombre;
 	private int edad;
 	private PasaporteSanitario pasaporteSanitario;
+	public PasaporteSanitario getPasaporteSanitario() {
+		return pasaporteSanitario;
+	}
 
 	public String getRun() {
 		return this.run;
