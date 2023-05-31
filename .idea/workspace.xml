@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d478a8b-0d84-442f-87e5-fc64a5888453" name="Changes" comment="subo clases creadas con visual paradigm corregidas">
+    <list default="true" id="1d478a8b-0d84-442f-87e5-fc64a5888453" name="Changes" comment="subo clases terminadas con lo solicitado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aeropuerto/Aeropuerto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aeropuerto/Aeropuerto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685569507987</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="subo clases terminadas con lo solicitado">
+      <created>1685570967958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685570967958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="subo clases creadas con visual paradigm" />
     <MESSAGE value="subo clases creadas con visual paradigm corregidas" />
-    <option name="LAST_COMMIT_MESSAGE" value="subo clases creadas con visual paradigm corregidas" />
+    <MESSAGE value="subo clases terminadas con lo solicitado" />
+    <option name="LAST_COMMIT_MESSAGE" value="subo clases terminadas con lo solicitado" />
   </component>
 </project>
